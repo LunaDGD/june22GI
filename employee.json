@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Diego Duran ",
+    "salary": "$100,000",
+    "department": "Data Engineering"
+  },
+  {
+    "id": 1,
+    "name": "Thierno Sisoko",
+    "salary": "$120,000",
+    "department": "Software Development"
+  },
+  {
+    "id": 2,
+    "name": "Janette Alvarado",
+    "salary": "$900,000",
+    "department": "Artist Development"
+  },
+  {
+    "id": 3,
+    "name": "Dante Huggins",
+    "salary": "$100,000",
+    "department": "DJ"
+  },
+  {
+    "id": 4,
+    "name": "John Doe",
+    "salary": "$170,000",
+    "department": "CEO"
+  },
+  {
+    "id": 5,
+    "name": "Goku ",
+    "salary": "$10,000",
+    "department": "Farmer"
+  },
+  {
+    "id": 6,
+    "name": "Krillin",
+    "salary": "$55,000",
+    "department": "Police Officer"
+  },
+  {
+    "id": 7,
+    "name": "Gohan",
+    "salary": "$170,000",
+    "department": "Teacher"
+  },
+  {
+    "id": 8,
+    "name": "Vegeta",
+    "salary": "$100,000",
+    "department": "Bulma'sHusband"
+  },
+  {
+    "id": 9,
+    "name": "Bulma",
+    "salary": "$100,000,000,000",
+    "department": "Capsule Corp CEO"
+  }
+]
